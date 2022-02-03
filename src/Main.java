@@ -8,6 +8,9 @@ public class Main {
 
         int suma=num1 + num2;
 
+
         System.out.println(suma);
+        System.out.println(suma+1);
+
     }
 }
