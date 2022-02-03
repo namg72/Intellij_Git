@@ -11,6 +11,7 @@ public class Main {
 
         System.out.println(suma);
         System.out.println(suma+1);
+        System.out.println(suma+3);
 
     }
 }
